@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root{
+  --bg-main-color: #f5f3f0;
+  --card-main-color: #e8dcc8;
+  --nav-main-color: #8b7355;
+  --text-main-color: #4a3728;
+  --button-main-color: #a68876;
+  --hover-main-color: #d4a574;
+}

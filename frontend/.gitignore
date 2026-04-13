@@ -1,0 +1,23 @@
+# =========================
+# Frontend (React/Vite/Node)
+# =========================
+node_modules/
+dist/
+dist-ssr/
+.npm/
+
+# =========================
+# Backend (Spring Boot/Java)
+# =========================
+target/
+build/
+*.jar
+*.war
+*.class
+
+# =========================
+# General/OS Files
+# =========================
+.DS_Store
+Thumbs.db
+.env

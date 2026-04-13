@@ -1,0 +1,83 @@
+[
+    {
+        "id": "171bdd22-ccf2-4afa-b0e8-a884cc2d1d93",
+        "name": "Violao",
+        "type": "CORDA",
+        "brand": "Yamaha",
+        "model": "C40",
+        "price": 100,
+        "stock": 10
+    },
+    {
+        "id": "0b359f3a-ca7f-4f1d-a8bb-cae078cb6443",
+        "name": "Exemplo",
+        "type": "CORDA",
+        "brand": "Teste",
+        "model": "1",
+        "price": 100,
+        "stock": 1
+    },
+    {
+        "id": "29e17188-0838-45b3-80c8-3967f6b22a44",
+        "name": "Guitarra",
+        "type": "CORDA",
+        "brand": "Tagima",
+        "model": "TW 520",
+        "price": 1400,
+        "stock": 1
+    },
+    {
+        "id": "e8ec9f07-a4c1-4659-944d-eeb9bf909e2d",
+        "name": "Teclado",
+        "type": "TECLADO",
+        "brand": "Yamaha",
+        "model": "YPT-370",
+        "price": 2100,
+        "stock": 0
+    },
+    {
+        "id": "a35b6cf6-ed7c-4561-a03c-f1fe6dabba3a",
+        "name": "Super Stratocaster",
+        "type": "CORDA",
+        "brand": "Ibanez",
+        "model": "Steve Vai Signature Model",
+        "price": 20000,
+        "stock": 0
+    },
+    {
+        "id": "4bfba4d4-2e08-4dfe-91c3-dcea89428451",
+        "name": "Stratocaster",
+        "type": "CORDA",
+        "brand": "Fender",
+        "model": "Steve Ray Vaughan Signature",
+        "price": 6000,
+        "stock": 0
+    },
+    {
+        "id": "4000a20f-0a50-4e43-89bd-87e12df8d1c3",
+        "name": "Bateria Eletrica",
+        "type": "PERCURSSAO",
+        "brand": "Eletric Drums",
+        "model": "D-25",
+        "price": 3000,
+        "stock": 1
+    },
+    {
+        "id": "59163bbd-65b4-43cb-9088-64d64fc33a74",
+        "name": "dsa",
+        "type": "CORDA",
+        "brand": "dsa",
+        "model": "dsa",
+        "price": 12,
+        "stock": 1
+    },
+    {
+        "id": "e6d1f1e2-147d-4088-ae05-4de689942eee",
+        "name": "violão",
+        "type": "CORDA",
+        "brand": "Yamaha",
+        "model": "B50",
+        "price": 8E+36,
+        "stock": 9
+    }
+]
